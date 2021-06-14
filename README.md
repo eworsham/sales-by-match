@@ -26,6 +26,7 @@ sockMerchant has the following parameters:
 ## Input Format
 
 The first line contains an integer n, the number of socks represented in arr. 
+
 The second line contains n space-separated integers, the colors of the socks in the pile.
 
 ## Sample Input
